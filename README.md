@@ -1,3 +1,5 @@
+## LIVE DEMO LINK :- <a href='https://nxttrendproduc.ccbp.tech/' target='_blank'>Nxt Trendz - Specific Product Details(click to check)</a>
+
 In this project, let's build a **Nxt Trendz - Specific Product Details** app by applying the concepts we have learned till now.
 
 ### Refer to the image below:
